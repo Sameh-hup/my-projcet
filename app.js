@@ -1,0 +1,1 @@
+alert("Welcome Moha to the app.js file!");
