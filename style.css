@@ -10,3 +10,10 @@ h1{
     padding: 10px;
     background-color: lightgray;
 }
+body {
+    background-color: #50458e;
+    font-family: Arial, sans-serif;
+    color: #145a33;
+    margin: 0;
+    padding: 20px;
+}
